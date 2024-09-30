@@ -12,7 +12,7 @@ app.use(OtakudesuRouter);
 app.get("/", (req, res) => {
   res.status(200).json({
     message:
-      "WAJIK ANIME API IS READY 🔥🔥, SEMUA RUTE ADA DI RESPONSE BERDASARKAN SOURCE",
+      "RIMURU FLIX ANIME API IS READY 💧💧, AUTHOR BY H4N DEVELOPER, SUMBER DARI OTAKUDESU",
     important:
       "SERING PANTAU BOSKUU DOMAIN SERING BERUBAH BISA EDIT DI src/helpers/animeUrl.ts",
     sources: [
