@@ -1,4 +1,4 @@
-# wajik-anime-api
+# rimuru-flix-api
 
 Streaming dan download Anime subtitle Indonesia
 
