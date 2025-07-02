@@ -14,7 +14,7 @@ app.use(otakudesu_routes_1.default);
 app.get("/", (req, res) => {
     res.status(200).json({
         message: "RIMURU FLIX API IS READY 💧💧 SCRAPE OTAKUDESU BY RYUHAN.",
-        important: "SERING PANTAU BOSKUU DOMAIN SERING BERUBAH BISA EDIT DI src/helpers/animeUrl.ts",
+        important: "DOMAIN OTAKU SERING BERUBAH, JANGAN LUPA SELALU PANTAU src/helpers/animeUrl.ts",
         sources: [
             {
                 name: "otakudesu",
