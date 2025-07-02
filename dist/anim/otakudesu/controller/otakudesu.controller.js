@@ -24,7 +24,7 @@ const otakudesuUrl = (0, getOtakudesuUrl_1.default)();
 const OtakudesuController = {
     getMessage(req, res) {
         res.status(200).json({
-            message: "OTAKUDESU IS READY 🍌💦, MOHON IJIN BANG OTAKUDESU🙏🙏🙏",
+            message: "STATUS 200 API IS READY, THIS SCRAPE WAS MADE BY RYUHAN.",
             otakudesuUrl: otakudesuUrl,
             routes: {
                 home: {
