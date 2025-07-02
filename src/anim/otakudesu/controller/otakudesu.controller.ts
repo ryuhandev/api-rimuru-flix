@@ -22,7 +22,7 @@ const otakudesuUrl = getOtakudesuUrl();
 const OtakudesuController = {
   getMessage(req: Request, res: Response) {
     res.status(200).json({
-      message: "OTAKUDESU IS READY 🍌💦, MOHON IJIN BANG OTAKUDESU🙏🙏🙏",
+      message: "OTAKUDESU IS READY 💧 API BY RYUHAN",
       otakudesuUrl: otakudesuUrl,
       routes: {
         home: {
